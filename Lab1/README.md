@@ -1,1 +1,1 @@
-
+The goal of this emulation environment is to build a reliable communication between the first responder and fire chief. As shown in Figure 1, the reliable of this communication hub consists of sensor hub and   unreliable network through a UDP socket, which is implemented upon the reliable data transformation protocol.  Meanwhile, to test the reliable, we implement a Gremlin Function to lose packet. Section 2 discusses details of each portion of the project
